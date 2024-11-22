@@ -1,123 +1,57 @@
+# Networking Projects Portfolio
+
+This document provides an overview of my networking projects, including configurations and protocols such as **Router**, **Switch**, **BGP Network**, and **OSPF Network**. Each project demonstrates my skills in network design, implementation, and troubleshooting.
+
 ---
-layout: default
+
+## Projects Overview
+
+### 1. **Router Configuration**
+- **Objective:** Configured and optimized routers to facilitate inter-network communication.
+- **Tools Used:** Cisco Packet Tracer.
+- **Key Highlights:**
+  - Implemented static and dynamic routing protocols.
+  - Verified routing tables and ensured packet delivery across subnets.
+  - Focused on efficient route selection for optimized performance.
+
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+### 2. **Switch Configuration**
+- **Objective:** Configured Layer 2 switches for VLAN segmentation and improved network efficiency.
+- **Tools Used:** Cisco Packet Tracer.
+- **Key Highlights:**
+  - Created multiple VLANs for logical network segmentation.
+  - Enabled trunk ports to facilitate inter-VLAN communication.
+  - Tested STP (Spanning Tree Protocol) to prevent loops in the network.
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
+### 3. **BGP Network Configuration**
+- **Objective:** Designed and implemented a Border Gateway Protocol (BGP) network for scalability.
+- **Tools Used:** Cisco Packet Tracer.
+- **Key Highlights:**
+  - Configured autonomous systems (AS) for inter-domain routing.
+  - Enabled route filtering for efficient routing between networks.
+  - Focused on scalability and reduced latency across large-scale networks.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+### 4. **OSPF Network Configuration**
+- **Objective:** Built a scalable and efficient network using the Open Shortest Path First (OSPF) protocol.
+- **Tools Used:** Cisco Packet Tracer.
+- **Key Highlights:**
+  - Configured multiple routers in a hierarchical OSPF design.
+  - Verified successful neighbor relationships and route propagation.
+  - Optimized network convergence times using OSPF areas.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## Key Learnings
+- Mastered the use of Cisco Packet Tracer for network simulations.
+- Gained expertise in configuring and troubleshooting routing and switching protocols.
+- Developed skills in network scalability, segmentation, and convergence optimization.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## GitHub Repository
+Access the detailed configurations and Packet Tracer files for all projects here: [GitHub Repository Link](#)
